@@ -588,9 +588,13 @@ main {
   top: 0;
   left: 0;
   transform: translate(15px, -25px);
-  background: var(--bg-gradient-onyx);
-  border-radius: 14px;
+  /* background: var(--bg-gradient-onyx); */
+  border-radius: 40px;
   box-shadow: var(--shadow-1);
+}
+
+.testimonials-avatar-box img {
+  border-radius: 50%;
 }
 
 .testimonials-item-title { margin-bottom: 7px; }

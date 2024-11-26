@@ -1,24 +1,22 @@
-vCard - Personal Portfolio
+Zhiqiang Zhang Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+zhiqiangzhang@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (408) 214-2711
 
 Birthday
-June 23, 1982
+Oct 22, 1994
 
 Location
-Sacramento, California, USA
+Central, Hong Kong
 
 # navbar
 
@@ -32,9 +30,11 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am an experienced website developer with 7+ years of expertise in e-commerce solutions, websites - responsive design. I focus on creating scalable, user-friendly websites that not only looks great but also align with business goals and deliver exceptional user experiences.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+With Strong problem-solving abilities, a passion and expertise in both frontend and backend development, I’m committed to producing lasting, reliable results, ensuring seamless integration and optimal performance for every project I undertake. I created web design for many famous brand companies.
+
+I am familiar collaborating with cross-functional teams to meet business goals.
 
 
 ## service
@@ -62,21 +62,17 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Annle Emma
+I highly recommend Zhiqiang who created my Vue.js landing page. His work is visually stunning, functional, and easy to navigate. He is communicative and responsive and has a deep understanding of Vue.js. I'm extremely happy with their work and would highly recommend him to anyone looking for a top-notch Vue.js developer. Thanks Zhiqiang.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Alisharoz
+Zhiqiang was very helpful and completed the work to a high standard. He provided everyting I asked for and also gave the project in many formats which is very helpful. Would recommend him for any frontend website building. I will work with him again in the future.
 
 alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Zhiqiang was great to work with. He started right away and was able to improve the speed of my website dramatically. Would recommend for sure.
 
 alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+I would give 6 stars if I could. Zhiqiang did an excellent job and I immediately rehired him and continue to work with him. I highly recommend.
 
 
 ## clients
@@ -91,44 +87,66 @@ alt = client logo
 
 Resume
 
-Education
-
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Full Stack Web Developer
+Divine Light - Calgary, December 2023 – May 2024
+• Led the development of a highly scalable e-commerce web application using React.js on the front end and Node.js with Express.js on the back end, supporting over 10,000 active users daily.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+• Designed and implemented RESTful APIs to connect front-end components with back-end data, resulting in a 25% improvement in response time.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+• Integrated payment gateway (Stripe) to process transactions securely, achieving a seamless checkout experience.
+
+• Used MongoDB and Redis to optimize application performance, reducing query latency by 30%.
+
+• Collaborated with designers and product managers in an Agile/Scrum environment to ensure the final product met business needs.
+
+• Deployed applications to AWS EC2 instances and utilized Docker for containerization.
+
+Web Developer
+National Bank - Montreal, January 2020 – November 2023
+• Developed and maintained a real-time chat application with React.js for the front end and Node.js for the back-end, integrating Socket.IO for WebSocket communication.
+
+• Improved application loading time by 40% through code optimization and reducing unnecessary API calls.
+
+• Implemented user authentication and authorization using JWT (JSON Web Tokens) and OAuth2, ensuring secure access control to sensitive data.
+
+• Refactored legacy PHP code into Node.js applications, improving code maintainability and scalability.
+
+• Wrote unit tests with Jest to ensure high code quality and reduce post-deployment bugs by 20%.
+
+Junior Developer
+Capital One - Toronto, November 2017 – December 2019
+• Assisted in building a social media platform using Vue.js and Node.js that allowed users to post, comment, and share content.
+
+• Built CRUD operations for managing user profiles, posts, and comments with a MySQL database.
+
+• Integrated Google Maps API to display location-based services for users, improving user engagement by 15%.
+
+• Collaborated with front-end and back-end teams to integrate a custom CMS, allowing non-technical users to manage content easily.
+
+• Ensured responsive design using Bootstrap and CSS3, providing a seamless experience on both desktop and mobile devices.
+
+
+Education
+
+Bachelor of Degree in Computer Science
+Simon Fraser University, 2012 - 2017
+Relevant Coursework: Data Structures and Algorithms, Web Development, Databases, Software Engineering, Operating Systems
+
+
 
 My skills
 
 Web design
+90%
+IOS development
 80%
-Graphic design
-70%
-Branding
+Backend API
 90%
 WordPress
-50%
+70%
 
 
 
