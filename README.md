@@ -1,4 +1,4 @@
-# Zhiqiang Zhang portfolio
+# portfolio
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing portfolio
 
-To install *My portfolio*, follow these steps:
+To install *portfolio*, follow these steps:
 
 Linux and macOS:
 
@@ -22,4 +22,4 @@ Windows:
 git clone https://github.com/LuckyMan564/My-Portfolio.git
 ```
 
-Zhiqiang
+Maksym

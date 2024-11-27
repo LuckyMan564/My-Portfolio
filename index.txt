@@ -1,4 +1,4 @@
-Zhiqiang Zhang Portfolio
+Maksym Portfolio
 
 # sidebar
 
@@ -16,7 +16,7 @@ Birthday
 Oct 22, 1994
 
 Location
-Central, Hong Kong
+Ukraine
 
 # navbar
 
@@ -63,16 +63,16 @@ I make high-quality photos of any category at a professional level.
 Testimonials
 
 alt = Annle Emma
-I highly recommend Zhiqiang who created my Vue.js landing page. His work is visually stunning, functional, and easy to navigate. He is communicative and responsive and has a deep understanding of Vue.js. I'm extremely happy with their work and would highly recommend him to anyone looking for a top-notch Vue.js developer. Thanks Zhiqiang.
+I highly recommend Maksym who created my Vue.js landing page. His work is visually stunning, functional, and easy to navigate. He is communicative and responsive and has a deep understanding of Vue.js. I'm extremely happy with their work and would highly recommend him to anyone looking for a top-notch Vue.js developer. Thanks Zhiqiang.
 
 alt = Alisharoz
-Zhiqiang was very helpful and completed the work to a high standard. He provided everyting I asked for and also gave the project in many formats which is very helpful. Would recommend him for any frontend website building. I will work with him again in the future.
+Maksym was very helpful and completed the work to a high standard. He provided everyting I asked for and also gave the project in many formats which is very helpful. Would recommend him for any frontend website building. I will work with him again in the future.
 
 alt = Emily evans
-Zhiqiang was great to work with. He started right away and was able to improve the speed of my website dramatically. Would recommend for sure.
+Maksym was great to work with. He started right away and was able to improve the speed of my website dramatically. Would recommend for sure.
 
 alt = Henry william
-I would give 6 stars if I could. Zhiqiang did an excellent job and I immediately rehired him and continue to work with him. I highly recommend.
+I would give 6 stars if I could. Maksym did an excellent job and I immediately rehired him and continue to work with him. I highly recommend.
 
 
 ## clients
